@@ -1,5 +1,7 @@
 import React from 'react'
 
+
+
 export const Contenido = () => {
   return (
 <section className="text-gray-600 body-font">
@@ -32,8 +34,8 @@ export const Contenido = () => {
           </svg>
         </div>
         <div className="flex-grow">
-          <h2 className="text-gray-900 text-lg title-font font-medium mb-3">The Catalyzer</h2>
-          <p className="leading-relaxed text-base">Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine, ramps microdosing banh mi pug VHS try-hard.</p>
+          <h2 className="text-gray-900 text-lg title-font font-medium mb-3">Control de Stock</h2>
+          <p className="leading-relaxed text-base">Controla tu stock descontando las ventas e ingrasando las compras.</p>
         </div>
       </div>
       <div className="p-4 md:w-1/3 flex flex-col text-center items-center">
@@ -44,8 +46,8 @@ export const Contenido = () => {
           </svg>
         </div>
         <div className="flex-grow">
-          <h2 className="text-gray-900 text-lg title-font font-medium mb-3">Neptune</h2>
-          <p className="leading-relaxed text-base">Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine, ramps microdosing banh mi pug VHS try-hard.</p>
+          <h2 className="text-gray-900 text-lg title-font font-medium mb-3">Ventas</h2>
+          <p className="leading-relaxed text-base">Control de las ventas y movimientos de tu negocio.</p>
         </div>
       </div>
     </div>

@@ -2,13 +2,12 @@ import { useState } from 'react'
 import './App.css'
 import { Principal } from './components/principal/Principal'
 import { Contenido } from './components/contenido/Contenido'
-import { Footer } from './components/contenido/footer/Footer'
-
+import { Footer } from './components/footer/Footer'
 
 function App() {
   return (
     <>
-    <main className=''>
+    <main>
       <Principal />
       <Contenido />
       <Footer />
